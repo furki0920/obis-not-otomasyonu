@@ -23,13 +23,10 @@ Bu proje, Aydın Adnan Menderes Üniversitesi Öğrenci Bilgi Sistemi (OBİS) ü
    pip install selenium webdriver-manager requests
 2. Kod içerisindeki yapılandırma alanlarını doldurun:
 
-  USER_ID: OBİS kullanıcı adınız.
-
-  PASSWORD: OBİS şifreniz.
-
-  TELEGRAM_TOKEN: BotFather üzerinden alınan API token.
-
-  CHAT_ID: Bildirimlerin gönderileceği Telegram sohbet kimliği.
+  - **USER_ID:** OBİS kullanıcı adınız.
+  - **PASSWORD:** OBİS şifreniz.
+  - **TELEGRAM_TOKEN:** BotFather üzerinden alınan API token.
+  - **CHAT_ID:** Bildirimlerin gönderileceği Telegram sohbet kimliği.
 
 3. Uygulamayı başlatın:
    ```bash
